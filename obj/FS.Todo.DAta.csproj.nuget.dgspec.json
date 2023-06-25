@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sinan\\Documents\\TestingAndAnalysis\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj": {}
+    "C:\\Users\\Sinan\\Desktop\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sinan\\Documents\\TestingAndAnalysis\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj": {
+    "C:\\Users\\Sinan\\Desktop\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sinan\\Documents\\TestingAndAnalysis\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj",
+        "projectUniqueName": "C:\\Users\\Sinan\\Desktop\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj",
         "projectName": "FS.Todo.DAta",
-        "projectPath": "C:\\Users\\Sinan\\Documents\\TestingAndAnalysis\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj",
+        "projectPath": "C:\\Users\\Sinan\\Desktop\\backend\\FS.Todo.Data\\FS.Todo.DAta.csproj",
         "packagesPath": "C:\\Users\\Sinan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sinan\\Documents\\TestingAndAnalysis\\backend\\FS.Todo.Data\\obj\\",
+        "outputPath": "C:\\Users\\Sinan\\Desktop\\backend\\FS.Todo.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
